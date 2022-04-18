@@ -20,13 +20,13 @@ Once the script is run; open albums.json to gather the album information.
 
 ### Setting up / collecting App Information
  * Go to the Application Dashboard
- ![](images/01.png)
+ ![](images/01.png)<br/>
  * Create an app give it a name and a description
- ![](images/02.png)
+ ![](images/02.png)<br />
  * Note the client id
  * Click show client secret
-![](images/03.png)
+![](images/03.png)<br />
 * Click Edit Settings
   * Set the redirect uri
-![](images/04.png)
-* Use this link https://developer.spotify.com/console/get-current-user-playlists/ To determine which playlist id you want to collect album information from. 
+![](images/04.png)<br />
+* Use this link https://developer.spotify.com/console/get-current-user-playlists/ To determine which playlist id you want to collect album information from.
